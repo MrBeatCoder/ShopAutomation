@@ -52,6 +52,11 @@ WebDriver driver;
         return errorMessage.getText();
     }
 
+    public void printName()
+    {
+        System.out.println("Silence");
+    }
+
 
 
 }
