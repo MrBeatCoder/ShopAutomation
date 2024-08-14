@@ -41,4 +41,9 @@ WebDriver driver;
         return checkOutpage;
     }
 
+    public void hero()
+    {
+        System.out.println("Hello Hello Hello");
+    }
+
 }

@@ -30,5 +30,9 @@ WebDriver driver;
         return match;
     }
 
+    public void hero()
+    {
+        System.out.println("Hello Hello Hello");
+    }
 
 }
