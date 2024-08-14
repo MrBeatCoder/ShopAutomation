@@ -50,5 +50,10 @@ WebDriver driver;
         return confirmationPage;
     }
 
+    public void byeWorld()
+    {
+        System.out.println("Goodbye");
+    }
+
 
 }

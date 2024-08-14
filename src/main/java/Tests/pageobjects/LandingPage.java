@@ -57,6 +57,11 @@ WebDriver driver;
         System.out.println("Silence");
     }
 
+    public void helloWorld()
+    {
+        System.out.println("Good Morning");
+    }
+
 
 
 }
